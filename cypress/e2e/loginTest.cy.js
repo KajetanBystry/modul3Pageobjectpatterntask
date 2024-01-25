@@ -1,5 +1,5 @@
-import { Login } from "./../pages/loginPage"
-import { Logout } from "./../pages/homepage"
+import { Login } from "./../pages/Login.js"
+import { Logout } from "./../pages/Homepage.js"
 
 const LoginPage =  new Login()
 const LogOutPage = new Logout()
